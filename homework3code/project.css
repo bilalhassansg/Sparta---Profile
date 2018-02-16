@@ -1,0 +1,22 @@
+.screenshot {
+  /*padding-top:30px !important;*/
+  height: 300px !important;
+  width: 500px !important;
+  /*border: solid;*/
+
+}
+
+.tile {
+	display: inline-block !important;
+	width: 30% !important;
+	margin-right: 3% !important;
+	margin-top: 25px !important;
+	text-align: center !important;
+	border: 2px solid #E13A63 !important;
+	box-sizing: border-box !important;
+}
+
+.tile img	{
+	display: block !important;
+	margin: 0 auto !important;
+}

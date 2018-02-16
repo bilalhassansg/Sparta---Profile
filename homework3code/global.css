@@ -1,0 +1,62 @@
+h1,h4 {
+  color:#E13A63 !important;
+}
+
+h4 {
+  margin-top:10px !important;
+}
+
+body {
+  font-family: 'Raleway', sans-serif !important;
+  margin: 0px !important;
+}
+
+#logo {
+  width:100px  !important;
+  margin-top:0 !important;
+  float: left;
+}
+
+@media screen and (min-width: 480px) {
+
+  #headshot {
+    border-radius: 100% !important;
+    height: 100% !important;
+    width: 100% !important;
+  }
+}
+
+.navbar {
+  background-color: #01181b !important;
+}
+
+.navbar a {
+  list-style: none !important;
+  text-decoration: none !important;
+  color: white !important;
+}
+
+.navbar li {
+  display: inline-block !important;
+  padding: 5px 5px 5px 5px !important;
+}
+
+.navbar a:hover {
+  color: grey !important;
+}
+
+.main-content {
+  margin: 0 80px !important;
+}
+
+p, .fyp {
+  text-align: center;
+}
+
+.lead {
+  text-align: left !important;
+}
+
+.leal {
+  text-align: left;
+}
